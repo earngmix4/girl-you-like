@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter
+# Girl You Like
 
 ## Requirements
 1. user เข้ามากดเลือกรูป ระหว่างรูป A กับรูป B
