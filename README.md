@@ -1,5 +1,7 @@
 # Girl You Like
 
+[Play it here](https://girl-you-like.pages.dev)
+
 ## Requirements
 1. user เข้ามากดเลือกรูป ระหว่างรูป A กับรูป B
 2. เลือกได้สูงสุด 5 ครั้ง
